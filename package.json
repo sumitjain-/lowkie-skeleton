@@ -1,0 +1,9 @@
+{
+	"name" : "lowkie-skeleton",
+	"version" : "0.1.0",
+	"description" : "A simple brunch skeleton for quick web prototyping using jquery, bootstrap and font awesome.",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/sumitjain-/lowkie-skeleton"
+	}
+}
